@@ -15,8 +15,8 @@ HAPPY LIFE
   <tr>
     <td width="75%">
       <h1>微信二维码</h1>
-      <p><b><a href="http://www.baidu.com">跳转页面</a></b></p>
       <p><b></b></p>
+      <p><b><a href="http://www.baidu.com">打开新世界的大门</a></b></p>
       <p><b></b></p>
       <p><b></b></p>
     </td>
