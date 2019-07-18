@@ -15,7 +15,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1></h1>
+      <h1>微信二维码</h1>
       <p><b></b></p>
       <p><b></b></p>
       <p><b></b></p>
