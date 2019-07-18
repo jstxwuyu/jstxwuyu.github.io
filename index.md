@@ -10,7 +10,7 @@
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      
     </td>
-</table>
+
 ###HAPPY LIFE
 <table border="0">
   <tr>
@@ -24,4 +24,4 @@
     <td width="25%">
       <img src="/1.jpg" width="100%">      
     </td>
-</table>
+
